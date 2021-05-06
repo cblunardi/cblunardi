@@ -1,6 +1,6 @@
 ### Hello 👋🏻
 
-- 🏢 I'm currently a Senior iOS Developer at Yoox net a Porter
+- 🏢 I'm currently a Senior iOS Developer
 - 🍎 I've participated in the Apple Developer Academy programmes in both Brazil and Italy
 - 🔨 I'm building native iOS apps for e-commerce applications with Combine and UIKit
 - 🌱 If you love Swift, Reactive Programming, best practices in iOS Development and computer science, let's talk!
