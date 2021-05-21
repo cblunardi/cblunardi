@@ -1,8 +1,9 @@
 ### Hello 👋🏻
 
-- 🏢 I'm currently a Senior iOS Developer
+- 🏢 I'm currently a iOS Engineer @ [hopin-team](https://github.com/hopin-team)
 - 🍎 I've participated in the Apple Developer Academy programmes in both Brazil and Italy
-- 🔨 I'm building native iOS apps for e-commerce applications with Combine and UIKit
+- 🔨 I've built native iOS apps with SwiftUI, UIKit, Combine, RxSwift and other technologies
 - 🌱 If you love Swift, Reactive Programming, best practices in iOS Development and computer science, let's talk!
-- 💬 Reach me out on Telegram! [@cblunardi](http://telegram.me/cblunardi)
-- 🗣 I speak Portuguese, Italian, English, Swift and x86 VLIW Assembly (👹 only the last one is not true)
+- 🗣 I speak Portuguese, Italian and English
+
+Try my latest personal project, Space on the [App Store](https://apps.apple.com/app/space-realtime-earth-widget/id1550623379) and on [Github](https://github.com/cblunardi/Space-iOS) 🌎
