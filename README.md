@@ -1,6 +1,6 @@
 ### Hello 👋🏻
 
-- 🏢 I'm currently a iOS Engineer @ [hopin-team](https://github.com/hopin-team)
+- 🏢 I'm currently a iOS Engineer @ Revolut
 - 🍎 I've participated in the Apple Developer Academy programmes in both Brazil and Italy
 - 🔨 I've built native iOS apps with SwiftUI, UIKit, Combine, RxSwift and other technologies
 - 🌱 If you love Swift, Reactive Programming, best practices in iOS Development and computer science, let's talk!
